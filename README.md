@@ -66,4 +66,5 @@ Open `phosphene_personalization.ipynb` in Google Colab (requires `pip install pu
   A model of ganglion axon pathways accounts for percepts elicited by retinal implants.
   *Scientific Reports*, 9, 9199.
 - Beyeler, M., Boynton, G. M., Fine, I., & Rokem, A. (2017). pulse2percept: A Python-based
-  simulation framework for bionic vision. *Proceedings of the 16th Python in Science Conference*.
+  simulation framework for bionic vision. *Proceedings of the 16th Python in Science
+  Conference (SciPy)*, 81–88. doi:10.25080/shinma-7f4c6e7-00c
